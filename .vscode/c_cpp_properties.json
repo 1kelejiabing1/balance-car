@@ -3,12 +3,12 @@
         {
             "name": "Target 1",
             "includePath": [
-                "d:\\STM32project\\STM32StdlibProject\\双轮平衡小车 - 无线控制（未完成）\\Start",
-                "d:\\STM32project\\STM32StdlibProject\\双轮平衡小车 - 无线控制（未完成）\\Library",
-                "d:\\STM32project\\STM32StdlibProject\\双轮平衡小车 - 无线控制（未完成）\\User",
-                "d:\\STM32project\\STM32StdlibProject\\双轮平衡小车 - 无线控制（未完成）\\System",
-                "d:\\STM32project\\STM32StdlibProject\\双轮平衡小车 - 无线控制（未完成）\\Hardware",
-                "d:\\STM32project\\STM32StdlibProject\\双轮平衡小车 - 无线控制（未完成）\\Soft",
+                "d:\\STM32project\\STM32StdlibProject\\双轮平衡小车 - 无线控制\\Start",
+                "d:\\STM32project\\STM32StdlibProject\\双轮平衡小车 - 无线控制\\Library",
+                "d:\\STM32project\\STM32StdlibProject\\双轮平衡小车 - 无线控制\\User",
+                "d:\\STM32project\\STM32StdlibProject\\双轮平衡小车 - 无线控制\\System",
+                "d:\\STM32project\\STM32StdlibProject\\双轮平衡小车 - 无线控制\\Hardware",
+                "d:\\STM32project\\STM32StdlibProject\\双轮平衡小车 - 无线控制\\Soft",
                 "D:\\software\\Keil_v5\\ARM\\ARMCC\\include",
                 "D:\\software\\Keil_v5\\ARM\\ARMCC\\include\\rw"
             ],
